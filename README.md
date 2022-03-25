@@ -18,3 +18,5 @@ Merci de contacter les organisateurs pour accéder aux codes d'accès.
 Mardi 22 mars de 14h
 
 [Support .pdf de la plenière](https://github.com/magisAR9/Assises/blob/main/prez/GdR_MAGIS_Presentation_AR9.pdf)
+
+Voir aussi la présentatation de [l'AR9 dans Néocarto](https://neocarto.hypotheses.org/14464)
