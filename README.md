@@ -1,6 +1,7 @@
-# Assises
+# Assises du GdR MAGIS
+Participation de l'AR9 aux [journées d'assises de MAGIS](https://journeesmagis.sciencesconf.org/resource/page/id/7)
 
-## Assises de juin 2022
+## Assises de juin 2022 </br>
 
 ### Atelier de lancement de l'AR9 </br>
 Lundi 21 mars de 10h30 à 12h30
@@ -13,8 +14,8 @@ L'atelier est ouvert à tous et toutes, avec la possibilité d'un suivi à dista
 
 Merci de contacter les organisateurs pour accéder aux codes d'accès.
 
-[Support de l'atelier]()
+[Support .pdf de l'atelier](https://github.com/magisAR9/Assises/blob/main/prez/GdR_MAGIS_Atelier_AR9.pdf)
 
 ### Présentation en plénière l'AR9
 
-[Support de la résentation]()
+[Support .pdf de la plenière](https://github.com/magisAR9/Assises/blob/main/prez/GdR_MAGIS_Presentation_AR9.pdf)
